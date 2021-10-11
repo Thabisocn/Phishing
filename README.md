@@ -20,7 +20,6 @@
   <a href="#How to report phishing">How to report phishing</a>
 </p>
 
-![screenshot](Phishingpoc.mkv)
 
 # Types of Phishing emails
 
