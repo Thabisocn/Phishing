@@ -1,12 +1,19 @@
 # The art of Phishing
 
+
+
+
+https://github.com/Thabisocn/Phishing/assets/55186310/d46c913d-54ce-4428-9c47-646d236f6bbe
+
+
+
 <h1 align="center">
-  <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
-  <br>
  Phishing
   <br>
 </h1>
+
+
+
 
 <h4 align="center">Phishing is the process where by a victim/target are contacted either by email, telephone or text message by an attacker posing as a legitimate organization in order to lure individuals into providing sensitive data such as personally identifiable information, banking and credit card details, and passwords.   </h4>
 
